@@ -1,4 +1,4 @@
-# PDF Text Summarization and Q&A Chatbot
+# Document Summarization and Q&A Chatbot
 
 ## Overview
 
@@ -15,7 +15,7 @@ This project is a web application that enables users to upload PDF documents, ex
 ## Technologies
 
 - **Streamlit**: Framework for building the web application.
-- **Hugging Face Transformers**: For text summarization and question-answering models.
+- **Ollama / Llama3**: For text summarization and question-answering models.
 - **PyPDF2**: For extracting text from PDF files.
 - **Python**: Programming language used for development.
 
@@ -80,6 +80,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. 
 ### Acknowledgements
 
-Hugging Face: For providing powerful NLP models.
+Ollama: For working with (local) Ollama and Llama large language models.
 Streamlit: For making it easy to build interactive web applications.
 
